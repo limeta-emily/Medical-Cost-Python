@@ -1,7 +1,7 @@
 # Project Overview
 Medical Cost is a project that explores the factors that affect personal medical cost (dataset sourced from Kaggle). The dataset provided an opportunity to uncover patterns and trends in medical cost. The project encompasses data cleaning, exploratory data analysis, geospatial analysis, clustering, linear regression, and visualization using tools like Jupyter Notebook, Tableau, and Python libraries.
 
-#Highlights
+# Highlights
 
 ● Thorough Data Cleaning: I meticulously clean and validate the dataset, ensuring data quality and reliability for subsequent analysis.
 

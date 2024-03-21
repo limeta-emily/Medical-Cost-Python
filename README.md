@@ -25,6 +25,8 @@ The project files are divided between the following folders:
 # Tools
 ● Python and Juptyer Notebook- All data was analyzed using the following libraries: Pandas, numpy, Seaborn, Matplotlib, Scipy, scilkit-learn for cluster and regression analaysis, Stats Model, Warnings, and PyLab  
 
-● Tableau- All visualizations were created in Tableau Public and may be viewed in the attached [Tableau Workbook]([https://public.tableau.com/app/profile/emily.limeta/viz/Upcomingfluseasonstoryboard/Story1?publish=yes](https://public.tableau.com/app/profile/emily.limeta/viz/MedicalCostAnalysis_17110594264960/MedicalCost?publish=yes)https://public.tableau.com/app/profile/emily.limeta/viz/MedicalCostAnalysis_17110594264960/MedicalCost?publish=yes).
+● Tableau- All visualizations were created in Tableau Public and may be viewed in the attached [Tableau Workbook]([https://public.tableau.com/app/profile/emily.limeta/viz/MedicalCostAnalysis_17110594264960/MedicalCost?publish=yes]).
+
+
 
 
